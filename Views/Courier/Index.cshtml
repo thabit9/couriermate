@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h3>Global Data</h3>
+    <a class="btn btn-success" asp-controller="Courier" asp-action="GetTowns">
+        GET TOWNS
+    </a>
+    <br />
+    <a class="btn btn-success" asp-controller="Courier" asp-action="GetServices">
+        GET SERVICES
+    </a>
+    <br />
+    <a class="btn btn-success" asp-controller="Courier" asp-action="GetOtherServices">
+        GET OTHER SERVICES
+    </a>
+    <br />
+    <a class="btn btn-success" asp-controller="Courier" asp-action="GetOtherServices">
+        GET ADDRESSES
+    </a>
+    <br />
+    
+    <h3>Quote</h3>
+    <a class="btn btn-success" asp-controller="Courier" asp-action="CreateQuote">
+        CREATE QUOTE
+    </a>
+</div>
