@@ -157,3 +157,6 @@ E:\Thabis Documents\Projects\NETCore5\couriermate\obj\Debug\net5.0\CourierMate.d
 E:\Thabis Documents\Projects\NETCore5\couriermate\obj\Debug\net5.0\ref\CourierMate.dll
 E:\Thabis Documents\Projects\NETCore5\couriermate\obj\Debug\net5.0\CourierMate.pdb
 E:\Thabis Documents\Projects\NETCore5\couriermate\obj\Debug\net5.0\CourierMate.genruntimeconfig.cache
+E:\Thabis Documents\Projects\NETCore5\couriermate\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Thabis Documents\Projects\NETCore5\couriermate\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Thabis Documents\Projects\NETCore5\couriermate\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
